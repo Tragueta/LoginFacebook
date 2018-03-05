@@ -67,7 +67,6 @@ public class MainActivity extends Activity {
                         // App code
                     }
                 });
-
     }
 
     @Override
